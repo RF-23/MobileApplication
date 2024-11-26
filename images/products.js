@@ -18,7 +18,7 @@ let products=[
         rating:2
     },
     {
-        id: 1003,
+        id: 103,
         title: "Bird Food, 25lb bag",
         description: "A 25 pound bag of",
         price: 2000,
